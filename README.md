@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Python Programmer | IT Engineer | Data Science Aspirant | Machine Learning Enthusiast | 
+Python Programmer | IT Engineer | Data Science Aspirant | Machine Learning Enthusiast
+
 Mumbai University
 
 
