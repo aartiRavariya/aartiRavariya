@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Python Programmer | IT Engineer | Data Science Aspirant | Machine Learning Enthusiast
+Data Scientist @L&T Financial Services | Data Analysis | Python Programmer | Research Enthusiast
 
 Mumbai University
 
